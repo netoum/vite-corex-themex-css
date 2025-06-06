@@ -14,7 +14,7 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
-    "@netoum/corex": "0.0.2",
-    "@netoum/themex-css": "0.0.2"
+    "@netoum/corex": "0.0.3",
+    "@netoum/themex-css": "0.0.3"
   }
 }
